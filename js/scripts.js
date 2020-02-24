@@ -24,3 +24,8 @@ $(document).ready(function(){
     $("#img3").toggle();
   })
 })
+
+function response(){
+  var userName = document.getElementById("name").value;
+  alert(userName + " we have recieved your message. Thank you for reaching out to us.");
+}
