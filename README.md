@@ -4,9 +4,9 @@
 ## Description
 This website contains information about Delani Studio and explains what we do.
 ## Setup/Installation Requirements
-* Go to lenny-makori.github.io/my-programming-portfolio
-* Go to https://github.com/Lenny-Makori/akan-naming-site.git
-* git clone https://github.com/Lenny-Makori/akan-naming-site.git
+* Go to lenny-makori.github.io/ip3
+* Go to https://github.com/Lenny-Makori/ip3.git
+* git clone https://github.com/Lenny-Makori/ip3.git
 * to get the project to your computer.
 * Also click on the link on the description to visit the deployed site.
 ## Known Bugs
