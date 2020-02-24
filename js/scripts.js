@@ -23,6 +23,7 @@ $(document).ready(function(){
     $("#pgh3").toggle();
     $("#img3").toggle();
   })
+  
 })
 
 function response(){
